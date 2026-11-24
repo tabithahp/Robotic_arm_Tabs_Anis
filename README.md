@@ -1,2 +1,2 @@
-# BATH_YR2projects
-A place for me and Anis to upload code related to our coursework in Y2.
+# Robotic arm
+Code and files related to the robotic arm project created in year 2.
